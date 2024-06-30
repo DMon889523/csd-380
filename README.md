@@ -1,2 +1,5 @@
-# csd-380
-BellvueU Devops
+# CSD 380 DevOps 
+
+## Contributors
+- Dominique Monroe
+- Joseph Issa
